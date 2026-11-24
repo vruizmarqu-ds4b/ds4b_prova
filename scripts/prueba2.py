@@ -1,1 +1,1 @@
-print("esto es otra prueba")
+print("esto es una prueba")
